@@ -7,3 +7,5 @@ Aplicação **React + Vite** que consome a **OMDb API** para buscar filmes, ver 
 ```bash
 npm install
 npm run dev
+
+> Licença: este projeto usa [MIT](./LICENSE). O arquivo de licença inclui uma **tradução em português** e o **texto original em inglês** (que prevalece em caso de divergência).
